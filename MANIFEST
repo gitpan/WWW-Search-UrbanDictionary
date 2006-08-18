@@ -1,8 +1,12 @@
 CHANGES
-UrbanDictionary.pm
-MANIFEST			This list of files
+lib/WWW/Search/UrbanDictionary.pm
+MANIFEST
 Makefile.PL
+Build.PL
 README
-t/pod.t
-t/simple.t
-META.yml                                 Module meta-data (added by MakeMaker)
+t/02-pod.t
+t/03-pod_coverage.t
+t/04-perl_critic.t
+t/11-compile.t
+t/12-search.t
+META.yml
