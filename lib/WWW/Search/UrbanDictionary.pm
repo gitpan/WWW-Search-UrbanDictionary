@@ -14,7 +14,7 @@ use vars qw(@ISA $VERSION);
 
 @ISA = qw(WWW::Search);
 
-$VERSION = '0.2';
+$VERSION = '0.3';
 
 sub native_setup_search {
 	my($self, $query) = @_;

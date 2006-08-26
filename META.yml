@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: WWW-Search-UrbanDictionary
-version: 0.2
+version: 0.3
 author:
   - Nick Gerakines <nick@socklabs.com>
 abstract: Search the Urban Dictionary via SOAP
