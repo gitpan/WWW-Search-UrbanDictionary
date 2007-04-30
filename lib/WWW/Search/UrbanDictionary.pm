@@ -1,5 +1,3 @@
-# $Id: $ $Revision: $ $Source: $ $Date: $
-
 package WWW::Search::UrbanDictionary;
 
 use strict;
@@ -14,7 +12,7 @@ use vars qw(@ISA $VERSION);
 
 @ISA = qw(WWW::Search);
 
-$VERSION = '0.3';
+$VERSION = '0.4';
 
 sub native_setup_search {
 	my($self, $query) = @_;
